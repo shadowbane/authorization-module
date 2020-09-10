@@ -1,0 +1,16 @@
+/.idea
+/.idea/*.xml
+/node_modules
+/vendor
+.env
+.editorconfig
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+*.lock
+*.php_cs.cache
+/package-lock.json
+*.DS_Store
+/worker.log
