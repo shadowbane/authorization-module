@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "backpack/crud": "4.1.*",
-        "joshbrw/laravel-module-installer": "^v0.1.4",
+        "joshbrw/laravel-module-installer": "^1.0.0",
         "nwidart/laravel-modules": "^7.2.0",
         "spatie/laravel-permission": ">=3.16.0"
     },
